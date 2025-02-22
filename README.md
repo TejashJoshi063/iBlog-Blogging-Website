@@ -1,2 +1,1 @@
-# iBlog-Blogging-Website
-This is an Blogging Website that I built using HTML,CSS And JS 
+http://127.0.0.1:3000/ResponsiveBlogTemplate/index.html
